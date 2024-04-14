@@ -1,0 +1,30 @@
+.home-heading {
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+
+.home-list {
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1.recipe {
+    color: red;
+    font-family: Courier, monospace;
+    font-weight: lighter;
+}
+
+ul.recipe {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+
+ol.recipe-steps {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
